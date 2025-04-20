@@ -1,4 +1,4 @@
-#Searching Algorithm
+# Searching Algorithm
 Projek implementasi searching algorithm secara Linear dan Binary
 
 ### Fitur
